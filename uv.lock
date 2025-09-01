@@ -1931,6 +1931,7 @@ dependencies = [
     { name = "markdown" },
     { name = "ollama" },
     { name = "playwright" },
+    { name = "python-dotenv" },
     { name = "streamlit" },
     { name = "unstructured" },
 ]
@@ -1945,6 +1946,7 @@ requires-dist = [
     { name = "markdown", specifier = ">=3.8.2" },
     { name = "ollama" },
     { name = "playwright" },
+    { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "streamlit" },
     { name = "unstructured", specifier = ">=0.18.14" },
 ]

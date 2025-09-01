@@ -16,6 +16,7 @@ dependencies = [
     "ollama",
     "unstructured>=0.18.14",
     "markdown>=3.8.2",
+    "python-dotenv>=1.1.1",
 ]
 
 [tool.uv]
